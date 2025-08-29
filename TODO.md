@@ -39,6 +39,7 @@
 - [ ] Test data fetching
 - [ ] Verify charts and visualizations
 - [ ] Test responsive design
+- [ ] This is for you do it and email me on aadimdhakal8@gmail.com or nota_hacker114@proton.me
 
 ## Next Steps:
 1. Install dependencies for both backend and frontend
