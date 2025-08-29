@@ -1,6 +1,6 @@
 # GitHub Productivity Tracker
 
-A professional-level web application that tracks and visualizes your GitHub activity and productivity metrics.
+A web application that tracks and visualizes your GitHub activity and productivity metrics.
 
 ## Features
 
